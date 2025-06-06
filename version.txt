@@ -1,2 +1,2 @@
-1.0.0
+1.1.0
 https://github.com/MinimalInspiriert/KimsConverter/releases/download/v1.0.1/KimsConverter.zip
