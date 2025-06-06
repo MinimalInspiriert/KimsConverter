@@ -1,2 +1,2 @@
 1.1.1
-https://www.dropbox.com/scl/fi/hun0goblr22n4smsuqsba/Kims_Converter_v1.1.1.zip?rlkey=f7uew8swc5po4we8ncu4eylju&st=nn5w1c0g&dl=0
+https://github.com/MinimalInspiriert/KimsConverter/releases/download/1.1.1/Kims_Converter_v1.1.1.zip
